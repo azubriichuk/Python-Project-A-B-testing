@@ -3,7 +3,7 @@
 ## Project Overview
 This project automates the analysis of A/B test results for an e-commerce platform. It moves beyond basic Excel calculations by using **Python** for statistical rigor and **SQL** for efficient data extraction. The final results are visualized in an interactive **Tableau Dashboard**.
 
-**View the Dashboard:** [Link to your Tableau Public](https://public.tableau.com/app/profile/artemii.zubriichuk/viz/ProjectABTesting/Dashboard1)
+**View the Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/artemii.zubriichuk/viz/ProjectABTesting/Dashboard1)
 
 ## Objectives
 * **Automate** the extraction and processing of raw session/event data from Google BigQuery.
